@@ -6,6 +6,7 @@ urlpatterns = patterns('',
     # Examples:
     # url(r'^$', 'tango.views.home', name='home'),
     # url(r'^blog/', include('blog.urls')),
+
     url(r'^logout/$', views.user_logout, name='logout'),
     url(r'^restricted/', views.restricted, name='restricted'),
     url(r'^login/$', views.user_login, name='login'),

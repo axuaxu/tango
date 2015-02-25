@@ -22,6 +22,10 @@
     {% else %}
         <li><a href="{% url 'register' %}">Register Here</a></li>
         <li><a href="{% url 'login' %}">Login</a></li>
+        <li><a href="{%url 'index' %}">Index</a></li>
+        <li><a href="{% url 'registration_register' %}">registration</a></li>
+        <li><a href="{% url 'auth_login' %}">login</a></li>
+        <li><a href="{% url 'auth_logout' %}?next=/rango/">logout</a></li>
     {% endif %}
 
     <li><a href="{% url 'about' %}">About</a></li>
