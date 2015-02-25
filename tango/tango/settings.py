@@ -75,6 +75,8 @@ TIME_ZONE = 'UTC'
 
 USE_I18N = True
 
+
+
 USE_L10N = True
 
 USE_TZ = True
@@ -94,6 +96,8 @@ STATIC_PATH = os.path.join(BASE_DIR,'static').replace('\\','/')
 STATICFILES_DIRS = (
     STATIC_PATH,
 )
+
+LOGIN_URL = '/rango/login/'
 
 
 MEDIA_URL = '/media/'

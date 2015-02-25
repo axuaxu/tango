@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-{% load staticfiles %} <!-- New line -->
+
 
 <html>
 
@@ -9,11 +9,15 @@
     </head>
 
     <body>
+    {% extends 'rango/base.html' %}
+    {% block body_block %}
+        {% load staticfiles %} <!-- New line -->
+
         <h1>About</h1>
         About  <strong>{{ boldmessage }}</strong><br />
-        <a href="/rango/index/">Index</a><br />
-        <img src="{% static "images/lake.jpg" %}" alt="about what" /> <!-- New line -->
 
+        <img src="{% static "images/lake.jpg" %}" alt="about what" /> <!-- New line -->
+    {% endblock %}
     </body>
 
 </html>
