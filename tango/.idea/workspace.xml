@@ -27,98 +27,50 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tango/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1624" max-vertical-offset="2023">
-              <caret line="100" column="1" selection-start-line="100" selection-start-column="1" selection-end-line="100" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="553" max-vertical-offset="2040">
+              <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rango/views.py">
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rango/templatetags/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="384" max-vertical-offset="2550">
-              <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rango_extras.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rango/templatetags/rango_extras.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+              <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
               <folding>
-                <element signature="e#0#29#0" expanded="true" />
-                <element signature="e#2499#3818#0" expanded="false" />
-                <element signature="e#3851#4656#0" expanded="false" />
-                <element signature="e#4706#5408#0" expanded="false" />
-                <element signature="e#7951#9996#0" expanded="false" />
-                <element signature="e#10026#10179#0" expanded="false" />
-                <element signature="e#10343#10517#0" expanded="false" />
+                <element signature="e#20#47#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tango/urls.py">
+      <file leaf-file-name="cats.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rango/templates/rango/cats.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.31829575" vertical-offset="111" max-vertical-offset="527">
-              <caret line="14" column="93" selection-start-line="14" selection-start-column="93" selection-end-line="14" selection-end-column="93" />
-              <folding>
-                <element signature="e#0#51#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rango/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="323">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rango/templates/registration/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.038462" vertical-offset="1" max-vertical-offset="476">
-              <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="registration_form.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rango/templates/registration/registration_form.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="442">
-              <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rango/templates/rango/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.115385" vertical-offset="222" max-vertical-offset="680">
-              <caret line="27" column="65" selection-start-line="27" selection-start-column="65" selection-end-line="27" selection-end-column="65" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="registration_complete.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rango/templates/registration/registration_complete.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="357">
-              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="logout.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rango/templates/registration/logout.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="357">
-              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.38081396" vertical-offset="855" max-vertical-offset="1411">
+              <caret line="58" column="62" selection-start-line="58" selection-start-column="62" selection-end-line="58" selection-end-column="62" />
               <folding />
             </state>
           </provider>
@@ -127,8 +79,48 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rango/templates/rango/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.115385" vertical-offset="103" max-vertical-offset="510">
-              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+            <state vertical-scroll-proportion="-8.5" vertical-offset="51" max-vertical-offset="578">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rango/templates/rango/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.730769" vertical-offset="630" max-vertical-offset="1071">
+              <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rango/templates/rango/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.038462" vertical-offset="35" max-vertical-offset="527">
+              <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add_page.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rango/templates/rango/add_page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.038462" vertical-offset="256" max-vertical-offset="748">
+              <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="registration_form.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rango/templates/registration/registration_form.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.038462" vertical-offset="256" max-vertical-offset="731">
+              <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -147,22 +139,26 @@
         <option value="$PROJECT_DIR$/rango/models.py" />
         <option value="$PROJECT_DIR$/rango/admin.py" />
         <option value="$PROJECT_DIR$/rango/forms.py" />
-        <option value="$PROJECT_DIR$/rango/templates/rango/login.html" />
         <option value="$PROJECT_DIR$/rango/templates/rango/category.html" />
         <option value="$PROJECT_DIR$/rango/templates/rango/add_category.html" />
-        <option value="$PROJECT_DIR$/rango/templates/rango/add_page.html" />
         <option value="$PROJECT_DIR$/rango/templates/rango/register.html" />
-        <option value="$PROJECT_DIR$/rango/templates/rango/index.html" />
-        <option value="$PROJECT_DIR$/rango/templates/rango/about.html" />
         <option value="$PROJECT_DIR$/rango/views.py" />
         <option value="$PROJECT_DIR$/rango/templates/registration/login.html" />
         <option value="$PROJECT_DIR$/rango/urls.py" />
         <option value="$PROJECT_DIR$/templates/registration/registration_form.html" />
         <option value="$PROJECT_DIR$/templates/registration/registration_complete.html" />
         <option value="$PROJECT_DIR$/templates/registration/logout.html" />
-        <option value="$PROJECT_DIR$/rango/templates/rango/base.html" />
-        <option value="$PROJECT_DIR$/tango/settings.py" />
         <option value="$PROJECT_DIR$/tango/urls.py" />
+        <option value="$PROJECT_DIR$/rango/templates/rango/about.html" />
+        <option value="$PROJECT_DIR$/rango/templates/rango/index.html" />
+        <option value="$PROJECT_DIR$/rango/templates/rango/login.html" />
+        <option value="$PROJECT_DIR$/rango/templates/rango/add_page.html" />
+        <option value="$PROJECT_DIR$/rango/templates/registration/registration_form.html" />
+        <option value="$PROJECT_DIR$/tango/settings.py" />
+        <option value="$PROJECT_DIR$/rango/templatetags/rango_extras.py" />
+        <option value="$PROJECT_DIR$/rango/templatetags/__init__.py" />
+        <option value="$PROJECT_DIR$/rango/templates/rango/cats.html" />
+        <option value="$PROJECT_DIR$/rango/templates/rango/base.html" />
       </list>
     </option>
   </component>
@@ -223,24 +219,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="registration" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tango" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tango" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="tango" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -273,11 +251,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
+              <option name="myItemId" value="templatetags" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tango" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tango" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="registration" />
+              <option name="myItemId" value="rango" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -318,8 +310,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Anne\PycharmProjects\tango\rango\templates" />
       <recent name="C:\Users\Anne\PycharmProjects\tango\rango\templates\rango" />
+      <recent name="C:\Users\Anne\PycharmProjects\tango\rango\templates" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Anne\PycharmProjects\tango\rango\templates" />
@@ -715,14 +707,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rango/templates/rango/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.884615" vertical-offset="74" max-vertical-offset="459">
-          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rango/forms.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1088">
@@ -741,14 +725,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rango/templates/rango/add_page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.115385" vertical-offset="153" max-vertical-offset="595">
-          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rango/templates/rango/category.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.769231" vertical-offset="307" max-vertical-offset="680">
@@ -761,22 +737,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.153846" vertical-offset="230" max-vertical-offset="680">
           <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rango/templates/rango/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.8076925" vertical-offset="443" max-vertical-offset="833">
-          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rango/templates/rango/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.115385" vertical-offset="103" max-vertical-offset="510">
-          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
           <folding />
         </state>
       </provider>
@@ -829,37 +789,111 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tango/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="111" max-vertical-offset="527">
+          <caret line="14" column="93" selection-start-line="14" selection-start-column="93" selection-end-line="14" selection-end-column="93" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rango/templates/rango/base-01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rango/templates/rango/index-01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="833">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rango/templates/rango/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.730769" vertical-offset="630" max-vertical-offset="1071">
+          <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rango/templates/rango/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.038462" vertical-offset="35" max-vertical-offset="527">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rango/templates/rango/add_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.038462" vertical-offset="256" max-vertical-offset="748">
+          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/rango/templates/registration/registration_form.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="442">
-          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        <state vertical-scroll-proportion="-13.038462" vertical-offset="256" max-vertical-offset="731">
+          <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tango/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1624" max-vertical-offset="2023">
-          <caret line="100" column="1" selection-start-line="100" selection-start-column="1" selection-end-line="100" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="553" max-vertical-offset="2040">
+          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rango/templatetags/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="399">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rango/templatetags/rango_extras.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+          <folding>
+            <element signature="e#20#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rango/templates/rango/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.5" vertical-offset="51" max-vertical-offset="578">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rango/templates/rango/cats.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="323">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rango/templates/rango/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.115385" vertical-offset="222" max-vertical-offset="680">
-          <caret line="27" column="65" selection-start-line="27" selection-start-column="65" selection-end-line="27" selection-end-column="65" />
+        <state vertical-scroll-proportion="0.38081396" vertical-offset="855" max-vertical-offset="1411">
+          <caret line="58" column="62" selection-start-line="58" selection-start-column="62" selection-end-line="58" selection-end-column="62" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tango/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31829575" vertical-offset="111" max-vertical-offset="527">
-          <caret line="14" column="93" selection-start-line="14" selection-start-column="93" selection-end-line="14" selection-end-column="93" />
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
